@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+
+.container{
+    margin-left: 1000;
+    content: center;
+    display: grid;
+    grid-auto-columns: auto auto auto auto;
+}
+
+.border{
+    color: grey
+}
